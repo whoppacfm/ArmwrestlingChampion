@@ -1,0 +1,7 @@
+Background;1;images\nt_background.jpg
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;110;255;x
+
+Label;15;110;mittel;Bewertung
+Label;15;150;mittel;Treffer 
+Label;15;180;mittel;Maxkraft 
+Label;15;210;mittel;Kraftausd 

@@ -1,0 +1,89 @@
+Background;1;images\ps_Eigenschaften.jpg
+Button;images\ps_button_SpecialMoves1.bmp;images\ps_button_SpecialMoves2.bmp;images\ps_button_SpecialMoves1.bmp;285;28;$FF00FF
+Button;images\ps_button_Ausruestung1.bmp;images\ps_button_Ausruestung2.bmp;images\ps_button_Ausruestung1.bmp;528;29;$FF00FF
+Button;images\ps_Button_Statistik1.bmp;images\ps_Button_Statistik2.bmp;images\ps_Button_Statistik1.bmp;770;30;$FF00FF
+
+/Button;images\ns_zurück1.jpg;images\ns_zurück2.jpg;images\ns_zurück1.jpg;401;687;x
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;695;x
+
+/Image;images\ps_button_Eigenschaften_Down.bmp;20;28;$FF00FF
+
+
+/Image;images\levelup_verteilung.bmp;750;180;x
+
+/Verteilung 0
+Label;797;195;mittel;1 
+
+Label;100;288;news;Level: 
+Label;100;217;news; 
+Label;100;357;news;Alter: 
+Label;100;427;news;Maximalkraft: 
+Label;100;497;news;Kraftausdauer: 
+
+
+Label;490;288;news;Fitness: 
+Label;490;427;news;Technik: 
+/Level 8
+Label;340;288;news;-1 
+
+/Alter 9
+Label;340;357;news;2 
+
+/MaxKraft 10
+Label;340;426;news;3 
+
+/Kraftausdauer 11
+Label;340;498;news;4 
+
+/Fitness 12
+Label;730;288;news;5 
+
+/Technik 13
+Label;730;427;news;6 
+
+
+
+/Erfahrung 14
+Label;730;497;news;7
+
+/Erfahrung für nächsten Level 15
+Label;730;567;news;8
+
+
+
+/Ansehen 16
+Label;340;567;news;9
+
+
+
+/Name 17
+Label;70;152;mittel;fdsfsdfs
+
+
+Label;100;567;news;Ansehen: 
+
+
+/Erfahrung 19
+Label;490;497;news;Erfahrung:
+
+/Erfahrung für nächsten Level 20
+Label;490;567;news;Levelaufstieg:
+
+
+/Regrate 21
+Label;490;357;news;Regeneration:
+
+
+/Regrate 22
+Label;730;357;news;5 
+
+
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;940;287;x
+/Button;images\ns_runter2k.bmp;images\ns_runter2k.jpg;images\ns_runter1k.jpg;920;317;$FF00FF
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;940;425;x
+/Button;images\ns_runter2k.jpg;images\ns_runter2k.jpg;images\ns_runter1k.jpg;920;398;$FF00FF
+
+
+
+Button;images\grade2.jpg;images\grade1.jpg;images\grade2.jpg;880;281;x
+Button;images\grade3.jpg;images\grade4.jpg;images\grade3.jpg;880;350;x

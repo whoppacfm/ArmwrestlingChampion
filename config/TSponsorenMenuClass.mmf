@@ -1,0 +1,22 @@
+Background;1;images\Sponsoren_background.jpg
+/Button;images\Sponsoren_back1.jpg;images\Sponsoren_back2.jpg;images\Sponsoren_back1.jpg;410;577;x
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;695;x
+
+Button;images\Sponsoren_Button_links2.jpg;images\Sponsoren_Button_links1.jpg;images\Sponsoren_Button_links2.jpg;126;66;$FF00FF
+Button;images\Sponsoren_Button_rechts2.jpg;images\Sponsoren_Button_rechts1.jpg;images\Sponsoren_Button_rechts2.jpg;843;67;$FF00FF
+
+
+
+Image;images\sp_markierung.bmp;0;0;$FF00FF
+
+Image;images\Sponsoren_handschlag1.bmp;679;271;$FF00FF
+Image;images\Sponsoren_handschlag2.bmp;679;271;$FF00FF
+Image;images\Sponsoren_handschlag3.bmp;679;271;$FF00FF
+
+
+Label;10;260;mittel;Name 
+Label;10;310;mittel; Laufzeit: 
+Label;10;360;mittel;Vergütung: 
+Label;10;410;mittel;Vergütung2: 
+
+

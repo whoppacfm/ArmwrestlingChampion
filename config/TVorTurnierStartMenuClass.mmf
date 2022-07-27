@@ -1,0 +1,17 @@
+Background;1;images\vt_back.jpg
+
+
+Label;25;280;mittel;1
+Label;25;340;mittel;2
+Label;25;370;mittel;3
+Label;25;420;mittel;4
+Label;25;470;mittel;5
+Label;25;500;mittel;6
+Label;25;530;mittel;7
+
+
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;371;650;black
+Label;415;660;big;weiter
+
+Image;images\geld.bmp;-100;-100;$FF00FF

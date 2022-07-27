@@ -1,0 +1,12 @@
+Background;1;images\nkk_backloser.jpg
+Background;2;images\nkk_backwinner.jpg
+
+Label;310;240;mittel;vs
+Label;310;330;mittel;MaxKraft
+Label;310;380;mittel;Kraftausd
+Label;310;430;mittel;Kraftausd
+
+
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;371;650;black
+
+Image;images\geld.bmp;-100;-100;$FF00FF

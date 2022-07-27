@@ -1,0 +1,13 @@
+Background;1;images\ns_sm_back.jpg
+Button;images\ns_weiter1.jpg;images\ns_weiter2.jpg;images\ns_weiter1.jpg;420;640;x
+
+Label;83;220;mittel;Welche Spezialbewegung möchten Sie erlernen ?
+
+Label;83;450;mittel;Name
+Label;83;500;mittel;Improvement
+Label;83;550;mittel;Beschreibung
+
+Image;images\sm_markierung.bmp;0;0;$FF00FF
+
+
+

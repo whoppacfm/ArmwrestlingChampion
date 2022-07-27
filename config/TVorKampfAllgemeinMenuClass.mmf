@@ -1,0 +1,15 @@
+Background;1;images\vk_background.jpg
+
+Label;10;85;mittel;vs
+
+Label;10;200;mittel;MaxKraft
+Label;10;250;mittel;Kraftausd
+Label;10;300;mittel;Technik
+Label;10;350;mittel;Tabellenrang?
+Label;10;400;mittel;Tabellenrang?
+
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;371;650;black
+Label;372;665;mittel;Kampf starten
+
+Image;images\geld.bmp;-100;-100;$FF00FF

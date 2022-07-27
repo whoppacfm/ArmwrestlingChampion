@@ -1,0 +1,31 @@
+Background;1;images\eh_back.jpg
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;5;695;$FF00FF
+
+
+/Erholen-Buttons
+Button;images\eh_er1.jpg;images\eh_er2.jpg;images\eh_er1.jpg;120;463;$FF00FF
+Button;images\eh_er1.jpg;images\eh_er2.jpg;images\eh_er1.jpg;270;504;$FF00FF
+Button;images\eh_er1.jpg;images\eh_er2.jpg;images\eh_er1.jpg;415;545;$FF00FF
+Button;images\eh_er1.jpg;images\eh_er2.jpg;images\eh_er1.jpg;560;590;$FF00FF
+Button;images\eh_er1.jpg;images\eh_er2.jpg;images\eh_er1.jpg;705;632;$FF00FF
+
+
+
+Label;20;80;mittel;Wo möchten Sie sich erholen ?
+Label;60;80;mittel;
+Label;375;80;mittel;
+
+
+Label;102;313;mittel;10 Euro
+Label;250;356;mittel;20 Euro
+Label;394;396;mittel;30 Euro
+Label;544;440;mittel;40 Euro
+Label;691;482;mittel;50 Euro
+
+
+Label;102;160;mittel;Kapital:
+Label;265;160;mittel;0
+
+Label;102;200;mittel;0
+
+Image;images\geld.bmp;-100;-100;$FF00FF

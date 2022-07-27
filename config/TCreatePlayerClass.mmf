@@ -1,0 +1,112 @@
+Background;1;images\NeuerSpieler.jpg
+Image;images\ns_verteilung.bmp;241;215;$FF00FF
+
+/Image;images\ns_name.jpg;119;275;x
+Label;95;300;mittel;Name:
+
+/Image;images\ns_alter.jpg;119;335;x
+Label;95;360;mittel;Alter:
+
+/Image;images\ns_Maximalkraft.jpg;119;395;x
+Label;95;420;mittel;Maximalkraft:
+
+/Image;images\ns_kraftausdauer.jpg;119;455;x
+Label;95;480;mittel;Kraftausdauer:
+
+/Image;images\ns_fitness.jpg;119;515;x
+Label;95;540;mittel;Fitness:
+
+/Image;images\ns_technik.jpg;119;575;x
+Label;95;600;mittel;Technik:
+
+
+/Infos Index 0,1
+Button;images\ns_hoch1.bmp;images\ns_hoch2.bmp;images\ns_hoch1.bmp;898;398;x
+Button;images\ns_runter1.bmp;images\ns_runter2.bmp;images\ns_runter1.bmp;898;440;x
+
+
+/Alter 6
+Label;350;360;mittel;10
+/Index 2,3
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;410;352;x
+Button;images\ns_runter1k.bmp;images\ns_runter2k.bmp;images\ns_runter1k.bmp;410;378;x
+
+/Maximalkraft 7
+Label;350;420;mittel;10
+/Index 4,5
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;410;412;x
+Button;images\ns_runter1k.bmp;images\ns_runter2k.bmp;images\ns_runter1k.bmp;410;438;x
+
+/Kraftausdauer 8
+Label;350;480;mittel;10
+/Index 6,7
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;410;472;x
+Button;images\ns_runter1k.bmp;images\ns_runter2k.bmp;images\ns_runter1k.bmp;410;498;x
+
+/Fitness 9 
+Label;350;540;mittel;10
+/Index 8,9
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;410;532;x
+Button;images\ns_runter1k.bmp;images\ns_runter2k.bmp;images\ns_runter1k.bmp;410;558;x
+
+/Technik 10
+Label;350;600;mittel;10
+/Index 10,11
+Button;images\ns_hoch1k.bmp;images\ns_hoch2k.bmp;images\ns_hoch1k.bmp;410;592;x
+Button;images\ns_runter1k.bmp;images\ns_runter2k.bmp;images\ns_runter1k.bmp;410;618;x
+
+
+/Alles 11
+Label;246;229;mittel;10
+
+
+/Index 12,13
+Button;images\ns_weiter1.jpg;images\ns_weiter2.jpg;images\ns_weiter1.jpg;723;702;x
+Button;images\ns_zurück1.jpg;images\ns_zurück2.jpg;images\ns_zurück1.jpg;100;702;x
+
+
+/Beschreibungen
+
+/MaxKraft 12-19
+Label;500;260;mittel;Maximalkraft
+Label;450;340;mittel;Die Maximalkraft wirkt 
+Label;450;380;mittel;sich direkt auf den 
+Label;450;420;mittel;Kampf aus. Sie bestimmt 
+Label;450;460;mittel;den Schwierigkeitsgrad,  
+Label;450;500;mittel;die Armposition zu  
+Label;450;540;mittel;halten oder zu
+Label;450;580;mittel;verbessern.
+
+/Kraftausdauer 20-24
+Label;500;260;mittel;Kraftausdauer
+Label;450;340;mittel;Die Kraftausdauer  
+Label;450;380;mittel;beeinflusst die 
+Label;450;420;mittel;Aufrechterhaltung der 
+Label;450;460;mittel;Maximalkraft.  
+
+/Fitness 25-31
+Label;500;260;mittel;Fitness
+Label;450;340;mittel;Fitness wird während 
+Label;450;380;mittel;dem Training verbraucht.  
+Label;450;420;mittel;Der momentane Zustand 
+Label;450;460;mittel;wirkt sich auf
+Label;450;500;mittel;Maximalkraft sowie
+Label;450;540;mittel;Kraftausdauer aus.
+
+
+/Technik 32-38
+Label;500;260;mittel;Technik
+Label;450;340;mittel;Mit Hilfe von Technik 
+Label;450;380;mittel;lassen sich erlernte 
+Label;450;420;mittel;Special Moves im Kampf 
+Label;450;460;mittel;einsetzen, welche unter-
+Label;450;500;mittel;schiedliche Vorteile  
+Label;450;540;mittel;bringen.
+
+
+/Name 39
+Label;200;300;mittel;Bomber
+
+Image;images\ns_cursor.jpg;0;0;x
+
+

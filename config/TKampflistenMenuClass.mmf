@@ -1,0 +1,23 @@
+Background;1;images\kl_back.jpg
+/Button;images\ns_zurück1.jpg;images\ns_zurück2.jpg;images\ns_zurück1.jpg;401;700;$FF00FF
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;620;x
+ 
+Label;245;243;mittel;Rückrunde
+Button;images\kl_pfeil_links1.jpg;images\kl_pfeil_links2.jpg;images\kl_pfeil_links1.jpg;185;225;x
+Button;images\kl_pfeil_rechts1.jpg;images\kl_pfeil_rechts2.jpg;images\kl_pfeil_rechts1.jpg;425;225;x
+
+Label;662;243;mittel;1/19
+Button;images\kl_pfeil_links1.jpg;images\kl_pfeil_links2.jpg;images\kl_pfeil_links1.jpg;595;225;x
+Button;images\kl_pfeil_rechts1.jpg;images\kl_pfeil_rechts2.jpg;images\kl_pfeil_rechts1.jpg;765;225;x
+
+
+/2
+Label;65;380;news;Sportler vs Sportler Sieger = ?
+Label;65;430;news;Sportler vs Sportler Sieger = ?
+Label;65;480;news;Sportler vs Sportler Sieger = ?
+
+Label;200;45;big;Liga, Saisonbegegnungen
+
+
+
+

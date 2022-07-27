@@ -1,0 +1,19 @@
+Background;1;images\basic_back2.jpg
+
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;371;650;black
+Label;414;660;big;weiter
+
+
+
+/Image;images\ns_verteilung.bmp;241;215;$FF00FF
+
+Label;30;300;mittel;Sie haben die Saison in der
+Label;30;350;mittel;rang
+Label;30;400;mittel;abgeschlossen.
+
+Label;30;500;mittel;abgeschlossen.
+Label;30;550;mittel;abgeschlossen.
+
+
+

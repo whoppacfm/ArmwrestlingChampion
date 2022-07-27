@@ -1,0 +1,27 @@
+Background;1;images\optionen_back.jpg
+
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;600;x
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;603;230;x
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;603;310;x
+Label;675;245;mittel;laden
+Label;640;325;mittel;speichern
+
+
+Image;images\kn_rahmen.jpg;-20;428;x
+
+
+
+/Spielstände
+Label;45;230;news;leerer Spielstand 
+Label;45;280;news;leerer Spielstand
+Label;45;330;news;leerer Spielstand 
+Label;45;380;news;leerer Spielstand
+Label;45;430;news;leerer Spielstand
+
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;603;390;x
+Label;658;405;mittel;beenden
+
+
+

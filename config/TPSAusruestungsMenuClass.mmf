@@ -1,0 +1,22 @@
+Background;1;images\ps_Ausruestung.jpg
+Button;images\ps_button_Eigenschaften1.bmp;images\ps_Button_Eigenschaften2.bmp;images\ps_Button_Eigenschaften1.bmp;38;30;$FF00FF
+Button;images\ps_button_SpecialMoves1.bmp;images\ps_button_SpecialMoves2.bmp;images\ps_button_SpecialMoves1.bmp;285;30;$FF00FF
+Button;images\ps_Button_Statistik1.bmp;images\ps_Button_Statistik2.bmp;images\ps_Button_Statistik1.bmp;770;30;$FF00FF
+/Button;images\ns_zurück1.jpg;images\ns_zurück2.jpg;images\ns_zurück1.jpg;401;693;x
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;695;x
+
+/Image;images\ps_button_Ausruestung_Down.bmp;512;26;$FF00FF
+
+/Change-Button
+Button;images\ps_Change1.jpg;images\ps_Change2.jpg;images\ps_Change1.jpg;571;280;x
+
+Label;100;570;mittel;Bezeichnung
+Label;100;620;mittel;Stufe:
+Label;550;570;mittel;Improve1
+Label;550;620;mittel;Improve2
+
+/Stufe, 4
+Label;230;620;mittel;0
+
+Image;images\sm_markierung.bmp;0;0;$FF00FF
+

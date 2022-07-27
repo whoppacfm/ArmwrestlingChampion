@@ -1,0 +1,49 @@
+Background;1;images\background_Blank.jpg
+Button;images\sm_diskette1.jpg;images\sm_diskette2.jpg;images\sm_diskette1.jpg;84;579;$FF00FF
+Button;images\sm_Kalender1.bmp;images\sm_Kalender2.bmp;images\sm_Kalender1.bmp;8;79;$FF00FF
+/479=613, 454=581
+Button;images\sm_Kampfliste1.jpg;images\sm_Kampfliste2.jpg;images\sm_Kampfliste1.jpg;626;587;$FF00FF
+Button;images\sm_Kneipe1.jpg;images\sm_Kneipe2.jpg;images\sm_Kneipe1.jpg;735;137;$FF00FF
+Button;images\sm_personal1.bmp;images\sm_personal2.bmp;images\sm_personal1.bmp;521;84;$FF00FF
+Button;images\sm_Shop1.jpg;images\sm_Shop2.jpg;images\sm_Shop1.jpg;796;231;$FF00FF
+Button;images\sm_Sponsoren1.jpg;images\sm_Sponsoren2.jpg;images\sm_Sponsoren1.jpg;821;342;$FF00FF
+Button;images\sm_Tabelle1.jpg;images\sm_Tabelle2.jpg;images\sm_Tabelle1.jpg;805;454;$FF00FF
+Button;images\sm_Training1.bmp;images\sm_Training2.bmp;images\sm_Training1.bmp;636;83;$FF00FF
+Button;images\sm_Turniere1.jpg;images\sm_Turniere2.jpg;images\sm_Turniere1.jpg;513;604;$FF00FF
+Button;images\sm_vergleich1.jpg;images\sm_Vergleich2.jpg;images\sm_Vergleich1.jpg;734;542;$FF00FF
+
+Button;images\sm_zumPokal1.jpg;images\sm_zumPokal2.jpg;images\sm_zumPokal1.jpg;32;326;$FF00FF
+
+Label;45;10;mittel;2.Liga - Hinrunde 
+
+Label;73;180;bw;Woche 
+Label;80;210;bw;07/19 
+Label;86;237;bw;Dienstag 
+
+Label;170;283;news;Mitteilung 1 
+Label;170;333;news;Mitteilung 2 
+Label;170;383;news;Mitteilung 3 
+Label;170;433;news;Mitteilung 4 
+Label;170;483;news;Mitteilung 5 
+
+Label;630;25;mittel;InfoText
+
+
+Button;images\radio1.jpg;images\radio2.jpg;images\radio1.jpg;935;670;$FF00FF
+Image;images\radiohalter.jpg;990;690;x
+
+
+Button;images\hilfe1.jpg;images\hilfe2.jpg;images\hilfe1.jpg;308;632;x
+
+
+/10
+Label;200;95;news;Kapital:
+
+/1
+Image;images\geld.bmp;300;75;$FF00FF
+
+/11
+Label;200;140;news;Fitness:
+
+/14
+Button;images\grade2.jpg;images\grade1.jpg;images\grade2.jpg;300;131;x

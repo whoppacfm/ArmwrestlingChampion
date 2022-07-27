@@ -1,0 +1,17 @@
+Background;1;images\mucke_back.jpg
+
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;695;x
+
+/Sound-Volume
+Label;370;100;big;Lautstärke
+/Music
+Label;300;300;big;Musik:
+Button;images\ns_hoch1.bmp;images\ns_hoch2.bmp;images\ns_hoch1.bmp;650;252;x
+Button;images\ns_runter1.bmp;images\ns_runter2.bmp;images\ns_runter1.bmp;650;345;x
+Label;632;300;big;50
+/Effects
+Label;200;500;big;Soundeffekte:
+Button;images\ns_hoch1.bmp;images\ns_hoch2.bmp;images\ns_hoch1.bmp;650;452;x
+Button;images\ns_runter1.bmp;images\ns_runter2.bmp;images\ns_runter1.bmp;650;545;x
+Label;632;500;big;50
+

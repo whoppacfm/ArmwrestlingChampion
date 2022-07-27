@@ -1,0 +1,44 @@
+//    IconPfad:string;
+//    MinLevel:integer
+//    Bezeichnung:string;
+
+//    SelfMaxStrProzent:integer;
+//Aufstieg
+//    SelfStrAusdProzent:integer;
+//Aufstieg
+//    GegnerMaxStrProzent:integer;
+//+Aufstiegswert
+//    GegnerStrAusdProzent:integer;
+//+Aufstiegswert
+//    ChangePosition:integer; //Armposition beeinflussen
+//+Aufstiegswert
+//    TechnikKosten:integer;
+//+Aufstiegswert
+//    Reaktionszeit:integer; //Millisekunden / -> jetzt Ermüdungsraten-Zeit: + -> Spieler, - -> Gegner
+//+Aufstiegswert
+//    StopGravity_MS:integer;
+//+Aufstiegswert
+//    StopGravityMove_MS:integer;
+//+Aufstiegswert
+//    Koordinaten: TPointArray; // -> (100-100,200-200,500-500...)
+//    Beschreibung
+
+
+//	IconPfad               MinLevel Bezeichnung        
+images\Items\SMoves\Schlafstellung.jpg; 1;Schlafstellung   ;-1;-1;7;2;-1;-1;-1;-1;-1;-1;-1;1;-1;-1;-1;-1;-1;-1;(900-200,200-200,500-100,200-400,100-600);Wirkt-wie-eine-kurze-Erholungspause
+images\Items\SMoves\SchwitzendeHand.jpg;1;Schwitzende-Hand ;-1;-1;-1;-1;-1;-1;-7;-2;-1;-1;-1;1;-1;-1;-1;-1;-1;-1;(300-300,200-200,500-100,100-100,200-400);Entzieht-dem-Gegner-Energie
+images\Items\SMoves\KampfGebruell.jpg;  1;Kampfgebrüll     ;7;2;-1;-1;-1;-1;-1;-1;-1;-1;-1;1;-1;-1;-1;-1;-1;-1;(100-100,200-200,500-500,800-500,100-500);Stärkt-den-Kampfgeist-und-das-Selbstvertrauen
+images\Items\SMoves\HolzHand.jpg;       1;Hölzerne-Hand    ;-1;-1;-1;-1;-7;-2;-1;-1;-1;-1;-1;1;-1;-1;-1;-1;-1;-1;(100-500,600-100,200-300,600-400,900-500);Hölzerne-Umklammerung-die-den-Gegner-schwächt 
+
+images\Items\SMoves\EiserneHand.jpg;    4;Eiserne-Hand     ;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;1;1000;300;-1;-1;-1;-1;(100-100,200-200,500-500);Die-eigene-Ermüdung-wird-für-bestimmte-Zeit--eingefroren
+images\Items\SMoves\BrennendeHand.jpg;  4;Brennende-Hand   ;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;1;-1000;-300;-1;-1;-1;-1;(100-100,200-200,500-500);Die-Ermüdungsrate-des-Gegners-wird-für-------bestimmte-Zeit-verdreifacht
+
+images\Items\SMoves\Ruettler.jpg;       8;Rüttler          ;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;1;-1;-1;-1;-1;1000;300;(100-100,200-200,500-500);Der-Gegner-kann-für-bestimmte-Zeit-seine-----Balance-nicht-anpassen
+images\Items\SMoves\Blitzangriff.jpg;   8;Blitzangriff     ;40;3;-40;3;-1;-1;-1;-1;-1;-1;-1;1;-1;-1;-1;-1;-1;-1;(100-100,200-200,500-500);Versuchen-Sie-Ihren-Gegner-möglichst-schnell-zu-besiegen
+
+images\Items\SMoves\Narkose.jpg;       12;Narkose          ;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;1;-1;-1;1000;300;-1;-1;(100-100,200-200,500-500);Der-Gegner-ist-für-bestimmte-Zeit-wehrlos
+
+images\Items\SMoves\TodesGriff.jpg;    15;Todesgriff       ;-1;-1;-1;-1;-1;-1;-1;-1;10;1;-1;1;-1;-1;-1;-1;-1;-1;(100-100,200-200,500-500);Die-Kampfsituation-wird-mit-dem-Todesgriff---entscheidend-verbessert
+
+
+

@@ -1,0 +1,7 @@
+Background;1;images\SpielEnde_back.jpg
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;300;650;black
+Label;301;666;mittel;Spiel beenden
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;660;650;black
+Label;661;666;mittel;weiterspielen

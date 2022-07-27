@@ -1,0 +1,45 @@
+Background;1;images\Einkaufen_back.jpg
+/Button;images\Einkaufen_buy1.bmp;images\Einkaufen_buy2.bmp;images\Einkaufen_buy1.bmp;410;277;$FF00FF
+Button;images\ps_Change1.jpg;images\ps_Change2.jpg;images\ps_Change1.jpg;473;277;$FF00FF
+/Button;images\ns_zurück1.jpg;images\ns_zurück2.jpg;images\ns_zurück1.jpg;400;700;$FF00FF
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;20;703;x
+
+
+/Kapital 0
+Label;330;715;mittel;0
+
+/ 1
+Label;20;526;mittel;Bezeichnung
+/ 2
+Label;20;558;mittel;Stufe:
+/ 3
+Label;550;526;mittel;Improve1
+/ 4
+Label;550;558;mittel;Improve2
+
+/ 5
+Label;20;620;mittel;Preis:
+
+
+/Stufe, 6
+Label;150;558;mittel;0
+
+/Preis 7
+Label;150;620;mittel;0
+
+
+/8
+Label;550;590;mittel;Fitnessverbrauch:
+/9
+Label;550;622;mittel;Wiederholungen:
+/10
+Label;550;654;mittel;Schwierigkeit:
+
+
+
+
+Image;images\sm_markierung.bmp;0;0;$FF00FF
+
+
+Image;images\geld.bmp;-100;-100;$FF00FF
+Image;images\geld.bmp;-100;-100;$FF00FF

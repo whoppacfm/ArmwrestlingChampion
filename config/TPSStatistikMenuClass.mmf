@@ -1,0 +1,49 @@
+Background;1;images\ps_Statistik.jpg
+Button;images\ps_button_Eigenschaften1.bmp;images\ps_Button_Eigenschaften2.bmp;images\ps_Button_Eigenschaften1.bmp;38;30;$FF00FF
+Button;images\ps_button_SpecialMoves1.bmp;images\ps_button_SpecialMoves2.bmp;images\ps_button_SpecialMoves1.bmp;285;30;$FF00FF
+Button;images\ps_button_Ausruestung1.bmp;images\ps_button_Ausruestung2.bmp;images\ps_button_Ausruestung1.bmp;528;30;$FF00FF
+/Button;images\ns_zurück1.jpg;images\ns_zurück2.jpg;images\ns_zurück1.jpg;401;687;x
+Button;images\zback1.jpg;images\zback2.jpg;images\zback1.jpg;378;695;x
+/Image;images\ps_button_Statistik_Down.bmp;755;29;$FF00FF
+
+Label;200;150;mittel;Kämpfe: 
+Label;200;200;mittel;Siege:
+Label;200;250;mittel;Niederlagen:
+
+Label;200;300;mittel;Turnierteilnahmen:
+Label;200;350;mittel;Turniersiege:
+
+Label;200;500;mittel;Meisterschaften 3.Liga:
+Label;200;550;mittel;Meisterschaften 2.Liga:
+Label;200;600;mittel;Meisterschaften 1.Liga:
+
+
+/Werte
+/8 
+Label;650;152;mittel;Kämpfe: 
+/9
+Label;650;202;mittel;Siege:
+/10
+Label;650;252;mittel;Niederlagen:
+
+/11
+Label;650;302;mittel;Turnierteilnahmen:
+/12
+Label;650;352;mittel;Turniersiege:
+
+/13
+Label;650;502;mittel;Meisterschaften 3.Liga:
+/14
+Label;650;552;mittel;Meisterschaften 2.Liga:
+/15
+Label;650;602;mittel;Meisterschaften 1.Liga:
+
+
+
+
+Label;200;400;mittel;Meisterschaften 5.Liga:
+Label;200;450;mittel;Meisterschaften 4.Liga:
+
+Label;650;400;mittel;Meisterschaften 5.Liga:
+Label;650;450;mittel;Meisterschaften 4.Liga:
+

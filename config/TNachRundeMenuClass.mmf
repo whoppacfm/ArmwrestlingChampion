@@ -1,0 +1,17 @@
+Background;1;images\basic_back.jpg
+
+
+Button;images\MainButton1.jpg;images\MainButton2.jpg;images\MainButton1.jpg;371;650;black
+Label;377;660;big;Rückrunde
+
+
+
+/Image;images\ns_verteilung.bmp;241;215;$FF00FF
+
+Label;30;300;mittel;Sie haben die Hinrunde mit dem
+Label;30;350;mittel;rang
+Label;30;400;mittel;abgeschlossen.
+
+
+
+
